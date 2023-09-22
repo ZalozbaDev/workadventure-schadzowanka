@@ -96,12 +96,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=https:\/\/www.youtube.com\/embed\/live_stream?channel=UC4s0IfBfh6JkXLX24Pxp75A"
+                 "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UClLwysAuldPkmmxob_id4hQ"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen"
+                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -379,18 +379,17 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
                  "height":41.8207681365576,
                  "id":20,
                  "name":"",
                  "rotation":0,
+                 "type":"",
                  "visible":false,
                  "width":59.7439544807965,
                  "x":929.615931721195,
                  "y":32.2617354196302
                 }, 
                 {
-                 "class":"area",
                  "height":39.4310099573258,
                  "id":23,
                  "name":"from-map",
@@ -401,13 +400,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":41.8207681365576,
                  "x":476.756756756757,
                  "y":543.669985775249
                 }, 
                 {
-                 "class":"area",
                  "height":34.6514935988622,
                  "id":24,
                  "name":"to-map",
@@ -418,13 +417,13 @@
                          "value":"map.tmj#from-livestream"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":92.0056899004268,
                  "x":450.469416785206,
                  "y":636.870554765291
                 }, 
                 {
-                 "class":"area",
                  "height":380,
                  "id":27,
                  "name":"silentZone",
@@ -435,6 +434,7 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":736,
                  "x":128,
@@ -550,7 +550,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -695,6 +695,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":31
 }
