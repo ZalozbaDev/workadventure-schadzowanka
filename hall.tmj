@@ -405,9 +405,63 @@
                  "y":587.880512091038
                 }, 
                 {
-                 "height":209.333333333333,
+                 "height":200.025854108956,
                  "id":28,
-                 "name":"dancePlaylist",
+                 "name":"dancePlaylistRejwac",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"06.kulow.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":258.190548140686,
+                 "x":125.333333333333,
+                 "y":249.333333333333
+                }, 
+                {
+                 "height":200.8719885839,
+                 "id":30,
+                 "name":"dancePlaylistKorcma",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"19.kneipe2.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":227.729707042726,
+                 "x":636.39855619911,
+                 "y":249.333333333333
+                }, 
+                {
+                 "height":200.025854108956,
+                 "id":29,
+                 "name":"dancePlaylistPiwo",
                  "properties":[
                         {
                          "name":"audioLoop",
@@ -427,9 +481,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":741.333333333333,
-                 "x":125.333333333333,
-                 "y":249.333333333333
+                 "width":240.421724166876,
+                 "x":390.173423990598,
+                 "y":250.179467808276
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -512,7 +566,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":29,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
