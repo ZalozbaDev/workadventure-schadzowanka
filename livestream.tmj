@@ -96,12 +96,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/HdDSE4N73AM?si=r83-cxT5l3gp0Zdj"
+                 "value":"https:\/\/www.youtube.com\/embed\/1HSEW-lZBwI?si=vRpef6OKnUZTZbCa"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                 "value":"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
