@@ -326,35 +326,34 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
                  "height":41.8207681365576,
                  "id":20,
                  "name":"",
                  "rotation":0,
+                 "type":"",
                  "visible":false,
                  "width":59.7439544807965,
                  "x":929.615931721195,
                  "y":32.2617354196302
                 }, 
                 {
-                 "class":"area",
-                 "height":28.6770981507824,
+                 "height":48.9843255494225,
                  "id":22,
                  "name":"to-hall1",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"hall.tmj#from-map1"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/zurla"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":217.4679943101,
                  "x":68.1081081081081,
                  "y":1.19487908961593
                 }, 
                 {
-                 "class":"area",
                  "height":27.4822190611664,
                  "id":23,
                  "name":"from-hall1",
@@ -365,14 +364,14 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":52.574679943101,
-                 "x":151.749644381223,
-                 "y":34.651493598862
+                 "x":148.36510648145,
+                 "y":80.3427552458023
                 }, 
                 {
-                 "class":"area",
-                 "height":34.651493598862,
+                 "height":72.7275449713123,
                  "id":24,
                  "name":"to-live",
                  "properties":[
@@ -382,13 +381,13 @@
                          "value":"livestream.tmj#from-map"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":62.1337126600284,
                  "x":480.341394025605,
-                 "y":155.334281650071
+                 "y":129.104112926827
                 }, 
                 {
-                 "class":"area",
                  "height":29.8719772403983,
                  "id":25,
                  "name":"from-livestream",
@@ -399,30 +398,30 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":31.0668563300142,
-                 "x":491.095305832148,
-                 "y":244.950213371266
+                 "x":499.556650581581,
+                 "y":271.18038209451
                 }, 
                 {
-                 "class":"area",
-                 "height":33.4566145092461,
+                 "height":62.2251866573196,
                  "id":26,
                  "name":"to-hall2",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"hall.tmj#from-map2"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/zurla"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":192.375533428165,
                  "x":736.045519203414,
                  "y":1.19487908961593
                 }, 
                 {
-                 "class":"area",
                  "height":29.8719772403983,
                  "id":28,
                  "name":"from-hall2",
@@ -433,13 +432,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":63.3285917496444,
                  "x":802.958748221906,
-                 "y":39.4310099573257
+                 "y":88.5068095040394
                 }, 
                 {
-                 "class":"area",
                  "height":97.9800853485064,
                  "id":30,
                  "name":"to-bar",
@@ -447,16 +446,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"bar.tmj#from-map"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/bara"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
-                 "width":29.8719772403983,
+                 "width":54.4098770137551,
                  "x":-1.19487908961593,
                  "y":94.3954480796586
                 }, 
                 {
-                 "class":"area",
                  "height":47.7951635846373,
                  "id":31,
                  "name":"from-bar",
@@ -467,13 +466,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":31.0668563300142,
-                 "x":51.3798008534851,
-                 "y":117.098150782361
+                 "x":80.994507476502,
+                 "y":167.020084804018
                 }, 
                 {
-                 "class":"area",
                  "height":97.9800853485064,
                  "id":32,
                  "name":"to-gamezone",
@@ -481,16 +480,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"gamezone.tmj#from-map"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/hry"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
-                 "width":32.2617354196302,
-                 "x":958.293029871977,
+                 "width":55.1073662431004,
+                 "x":935.447399048507,
                  "y":95.5903271692745
                 }, 
                 {
-                 "class":"area",
                  "height":47.7951635846373,
                  "id":33,
                  "name":"from-gamezone",
@@ -501,10 +500,11 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":26.2873399715505,
-                 "x":897.354196301565,
-                 "y":115.903271692745
+                 "x":883.816044702472,
+                 "y":164.979071239459
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -621,7 +621,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -844,6 +844,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":31
 }
