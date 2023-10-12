@@ -344,7 +344,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/zurla"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/zurla#from-map1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -412,7 +412,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/zurla"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/zurla#from-map2"
                         }],
                  "rotation":0,
                  "type":"area",

@@ -350,42 +350,42 @@
                  "type":"area",
                  "visible":true,
                  "width":65.7183499288763,
-                 "x":184.011379800853,
-                 "y":598.634423897582
+                 "x":168.780959251873,
+                 "y":543.635683026265
                 }, 
                 {
-                 "height":28.6770981507824,
+                 "height":48.9843255494226,
                  "id":24,
                  "name":"to-map1",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-hall1"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/zastup#from-hall1"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":164.893314366999,
                  "x":125.462304409673,
-                 "y":641.650071123755
+                 "y":621.342843725115
                 }, 
                 {
-                 "height":27.4822190611663,
+                 "height":46.9433119848631,
                  "id":26,
                  "name":"to-map2",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-hall2"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/zastup#from-hall2"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":167.283072546231,
                  "x":701.394025604552,
-                 "y":640.455192034139
+                 "y":620.994099110442
                 }, 
                 {
                  "height":45.4054054054054,
@@ -401,8 +401,8 @@
                  "type":"area",
                  "visible":true,
                  "width":58.5490753911806,
-                 "x":763.52773826458,
-                 "y":587.880512091038
+                 "x":771.989083014013,
+                 "y":542.189250444098
                 }, 
                 {
                  "height":200.025854108956,
