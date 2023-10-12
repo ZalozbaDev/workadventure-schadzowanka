@@ -378,7 +378,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"livestream.tmj#from-map"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/live"
                         }],
                  "rotation":0,
                  "type":"area",
