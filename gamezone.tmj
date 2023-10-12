@@ -9,8 +9,8 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -489,7 +489,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":96,
                  "id":22,
                  "name":"to-map",
@@ -497,16 +496,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-gamezone"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/zastup#from-gamezone"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
-                 "width":29,
+                 "width":54.0041859686331,
                  "x":2,
                  "y":162
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":23,
                  "name":"from-map",
@@ -517,13 +516,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":29,
-                 "x":64,
-                 "y":193
+                 "x":97.0055254785957,
+                 "y":191.499748841882
                 }, 
                 {
-                 "class":"area",
                  "height":162,
                  "id":24,
                  "name":"jitsiGameZone1",
@@ -554,13 +553,13 @@
                          "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":159,
                  "x":576,
                  "y":95
                 }, 
                 {
-                 "class":"area",
                  "height":159,
                  "id":25,
                  "name":"jitsiGameZone2",
@@ -591,13 +590,13 @@
                          "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":161,
                  "x":576,
                  "y":256
                 }, 
                 {
-                 "class":"area",
                  "height":97,
                  "id":26,
                  "name":"jitsiGameZone3",
@@ -628,13 +627,13 @@
                          "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":161,
                  "x":353,
                  "y":95
                 }, 
                 {
-                 "class":"area",
                  "height":97,
                  "id":27,
                  "name":"jitsiGameZone4",
@@ -665,13 +664,13 @@
                          "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":161,
                  "x":354,
                  "y":318
                 }, 
                 {
-                 "class":"",
                  "height":19,
                  "id":34,
                  "name":"",
@@ -681,13 +680,13 @@
                      "text":"Uno",
                      "wrap":true
                     },
+                 "type":"",
                  "visible":true,
                  "width":72,
                  "x":613,
                  "y":149.5
                 }, 
                 {
-                 "class":"",
                  "height":19,
                  "id":35,
                  "name":"",
@@ -699,6 +698,7 @@
                      "text":"b\u00f3j \u010do\u0142mow",
                      "wrap":true
                     },
+                 "type":"",
                  "visible":true,
                  "width":72,
                  "x":216,
@@ -800,7 +800,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -984,6 +984,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":24
 }

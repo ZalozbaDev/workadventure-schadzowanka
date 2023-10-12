@@ -11,8 +11,8 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -263,7 +263,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":95,
                  "id":22,
                  "name":"to-map",
@@ -271,16 +270,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-bar"
+                         "value":"https:\/\/play.workadventu.re\/@\/zalozba\/schadzowanka\/zastup#from-bar"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
-                 "width":32,
-                 "x":735,
+                 "width":51.0031813361612,
+                 "x":715.996818663839,
                  "y":223
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":23,
                  "name":"from-map",
@@ -291,13 +290,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":680,
-                 "y":240
+                 "x":639.493218730814,
+                 "y":256.502762739298
                 }, 
                 {
-                 "class":"area",
                  "height":126,
                  "id":25,
                  "name":"chillZone1",
@@ -328,13 +327,13 @@
                          "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":160,
                  "x":576,
                  "y":96
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":27,
                  "name":"chillZone2",
@@ -365,13 +364,13 @@
                          "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":156,
                  "x":417,
                  "y":94
                 }, 
                 {
-                 "class":"area",
                  "height":158,
                  "id":29,
                  "name":"barZone",
@@ -402,6 +401,7 @@
                          "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":289,
                  "x":31,
@@ -503,7 +503,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -648,6 +648,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":24
 }
