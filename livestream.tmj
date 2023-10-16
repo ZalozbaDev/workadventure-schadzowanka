@@ -111,7 +111,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Za wotewrjenje livestreama LEERZEICHEN t\u0142\u00f3\u010di\u0107!"
+                 "value":"Za wotewrjenje livestreama SPACE t\u0142\u00f3\u010di\u0107!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -441,51 +441,85 @@
                  "y":98.6666666666668
                 }, 
                 {
-                 "class":"area",
-                 "height":361.333333333333,
+                 "height":164.184000671535,
                  "id":29,
-                 "name":"ChatZone1",
+                 "name":"ChatZoneSewjerZapad",
                  "properties":[
                         {
                          "name":"chatName",
                          "type":"string",
-                         "value":"Chat left row"
+                         "value":"Chat nal\u011bwo horjeka"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":228,
                  "x":125.333333333333,
-                 "y":117.333333333333
+                 "y":124.10240913288
                 }, 
                 {
-                 "class":"area",
-                 "height":361.333,
-                 "id":30,
-                 "name":"ChatZone3",
+                 "height":164.184000671535,
+                 "id":34,
+                 "name":"ChatZoneJuhZapad",
                  "properties":[
                         {
                          "name":"chatName",
                          "type":"string",
-                         "value":"Chat right row"
+                         "value":"Chat nal\u011bwo deleka"
                         }],
                  "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":228,
+                 "x":125.333333333333,
+                 "y":316.174934945018
+                }, 
+                {
+                 "height":161.645263913372,
+                 "id":30,
+                 "name":"ChatZoneSewjerWuchod",
+                 "properties":[
+                        {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"Chat naprawo horjeka"
+                        }],
+                 "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":228,
                  "x":642,
-                 "y":119.3335
+                 "y":125.256441324603
                 }, 
                 {
-                 "class":"area",
-                 "height":258.666333333333,
-                 "id":32,
-                 "name":"ChatZone2",
+                 "height":161.645263913372,
+                 "id":33,
+                 "name":"ChatZoneJuhWuchod",
                  "properties":[
                         {
                          "name":"chatName",
                          "type":"string",
-                         "value":"Chat middle row"
+                         "value":"Chat naprawo deleka"
                         }],
                  "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":228,
+                 "x":638.615462100227,
+                 "y":319.021236086628
+                }, 
+                {
+                 "height":258.666333333333,
+                 "id":32,
+                 "name":"ChatZoneSrjedza",
+                 "properties":[
+                        {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"Chat srjed\u017aa"
+                        }],
+                 "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":116,
                  "x":438,
@@ -572,7 +606,7 @@
          "y":0
         }],
  "nextlayerid":64,
- "nextobjectid":33,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
