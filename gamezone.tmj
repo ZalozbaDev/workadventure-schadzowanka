@@ -120,6 +120,11 @@
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Za hrajkanje SPACE t\u0142\u00f3\u010di\u0107!"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -156,6 +161,11 @@
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Za hrajkanje SPACE t\u0142\u00f3\u010di\u0107!"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -192,6 +202,11 @@
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Za hrajkanje SPACE t\u0142\u00f3\u010di\u0107!"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -228,6 +243,11 @@
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Za hrajkanje SPACE t\u0142\u00f3\u010di\u0107!"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -264,6 +284,11 @@
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Za hrajkanje SPACE t\u0142\u00f3\u010di\u0107!"
                         }],
                  "type":"tilelayer",
                  "visible":true,
