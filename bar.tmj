@@ -320,11 +320,6 @@
                          "name":"jitsiTriggerMessage",
                          "type":"string",
                          "value":"Za p\u0159istup do konferency SPACE t\u0142o\u0107i\u0107!"
-                        }, 
-                        {
-                         "name":"jitsiUrl",
-                         "type":"string",
-                         "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -357,11 +352,6 @@
                          "name":"jitsiTriggerMessage",
                          "type":"string",
                          "value":"Za p\u0159istup do konferency SPACE t\u0142o\u0107i\u0107!"
-                        }, 
-                        {
-                         "name":"jitsiUrl",
-                         "type":"string",
-                         "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -394,11 +384,6 @@
                          "name":"jitsiTriggerMessage",
                          "type":"string",
                          "value":"Za p\u0159istup do konferency SPACE t\u0142o\u0107i\u0107!"
-                        }, 
-                        {
-                         "name":"jitsiUrl",
-                         "type":"string",
-                         "value":"jitsi.serbski-inkubator.de"
                         }],
                  "rotation":0,
                  "type":"area",
