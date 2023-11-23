@@ -391,6 +391,38 @@
                  "width":289,
                  "x":31,
                  "y":97
+                }, 
+                {
+                 "height":108.118411514204,
+                 "id":30,
+                 "name":"website",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/digidom.serbski-inkubator.de\/schadzowanka.pdf"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Za p\u0159ekwapjenku SPACE t\u0142o\u0107i\u0107!"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":96,
+                 "x":96.0241111793269,
+                 "y":305.751030331529
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -437,7 +469,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 2787, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -459,7 +491,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
