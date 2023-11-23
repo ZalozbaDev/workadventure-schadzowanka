@@ -480,12 +480,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: WorkAdventure (https:\/\/WorkAdventu.re) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Wuhotowar: Jakub Kliemann \nLicenca: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"Wirtuelna schad\u017aowanka we WorkAdventure!"
         }, 
         {
          "name":"mapImage",
@@ -495,7 +495,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Schad\u017aowanka"
         }, 
         {
          "name":"script",
