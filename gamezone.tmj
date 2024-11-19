@@ -792,7 +792,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"gamezone.png"
         }, 
         {
          "name":"mapName",
