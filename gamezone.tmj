@@ -114,7 +114,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/buddyboardgames.com\/chess?room=c2NoYWTFum93YW5rYTE="
+                         "value":"https:\/\/buddyboardgames.com\/chess?room=xaFhY2gtc2NoYWTFum93YW5rYQ%3D%3D"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -196,7 +196,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/buddyboardgames.com\/checkers?room=c2NoYWTFum93YW5rYQ=="
+                         "value":"https:\/\/buddyboardgames.com\/checkers?room=Y2hlY2stc2NoYWTFum93YW5rYQ%3D%3D"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -237,7 +237,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/buddyboardgames.com\/battleship?room=c2NoYWTFum93YW5rYQ=="
+                         "value":"https:\/\/buddyboardgames.com\/battleship?room=YsOzai1zY2hhZMW6b3dhbmth"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -278,7 +278,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/buddyboardgames.com\/uno?room=c2NoYWTFum93YW5rYQ=="
+                         "value":"https:\/\/buddyboardgames.com\/uno?room=dW5vLXNjaGFkxbpvd2Fua2E%3D"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -805,7 +805,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.0",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
